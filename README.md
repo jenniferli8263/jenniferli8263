@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# I am a Software Engineering Student at the University of Waterloo<br>
+I am a Software Engineering Student at the University of Waterloo<br>
 
 
 # 💻 Tech Stack:
